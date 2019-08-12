@@ -68,10 +68,7 @@ public class CalcApp {
 
 			
 			/*  코드를 완성 합니다 */
-			
-			
-			
-			
+
 		}
 		
 		scanner.close();
